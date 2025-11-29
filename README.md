@@ -2,7 +2,7 @@
 Power BI • Data Cleaning • DAX • Business Insights
 
 
-(Replace with your screenshot file)
+(https://github.com/Priya-sharma5/Zepto-Sales-Performance-Analytics-Dashboard/blob/3afd2a73db671d87f0ec1435a86f710bfdd802f9/Dashboard.png)
 
 🚀 Project Overview
 
@@ -94,7 +94,7 @@ Interactive slicers
 
 (Add your image here in GitHub)
 
-![Zepto Dashboard](Dashboard.png)
+![Zepto Dashboard](https://github.com/Priya-sharma5/Zepto-Sales-Performance-Analytics-Dashboard/blob/3afd2a73db671d87f0ec1435a86f710bfdd802f9/Dashboard.png)
 
 ⭐ Features of This Dashboard
 
